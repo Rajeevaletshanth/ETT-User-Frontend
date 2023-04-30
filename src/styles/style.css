@@ -1,0 +1,29 @@
+.textAlgin{
+    text-align: center;
+}
+.bg{
+    background-color: #fff;
+}
+.display{
+    display: block;
+    text-align: center;
+}
+.opacity {
+    opacity: 1;
+}
+.textColor{
+ color:rgb(0, 44, 202);
+}
+.hightImg{
+    height: 450px;
+    border-radius: 10px;
+}
+.hightImgCover{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.imgStyle{
+    height: 250px;
+}
